@@ -51,9 +51,3 @@
 * **Language:** Java / Kotlin
 * **UI Layouts:** XML Layouts (Material Design)
 * **Features:** Custom GIF decoding logic, dynamic frame rendering, and background thread image exporting.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
