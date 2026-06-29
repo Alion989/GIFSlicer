@@ -30,7 +30,7 @@
 
 | Welcome Screen | Decoded Frames & Options | Animation Preview |
 |---|---|---|
-| <img src="629317.jpg" width="250"> | <img src="629318.jpg" width="250"> | <img src="629319.jpg" width="250"> |
+| <img src="1.jpg" width="250"> | <img src="2.jpg" width="250"> | <img src="3.jpg" width="250"> |
 
 > *Note: If you move your screenshots to a specific folder (e.g., `assets/`), make sure to update the image paths in the table above.*
 
